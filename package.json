@@ -1,0 +1,15 @@
+{
+  "name": "cit262-individual-repository",
+  "version": "1.0.0",
+  "description": "This is for my application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://monitech1.github.io/CIT-262-IT-Mang-Devop/ https://monitech1.github.io/CIT-262-IT-Mang-Devop/"
+  },
+  "author": "Monigan Daniel",
+  "license": "ISC"
+}
